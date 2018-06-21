@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="470.85757"
+   height="340"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="eu-flood-dataset_statistics.svg">
+  <metadata
+     id="metadata148">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1142"
+     id="namedview146"
+     showgrid="false"
+     inkscape:zoom="1.597086"
+     inkscape:cx="213.02865"
+     inkscape:cy="125.11548"
+     inkscape:window-x="1680"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4" />
+  <text
+     style="font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+     class="vennchart-subtitle"
+     x="134.3441"
+     y="-24.200001"
+     id="text10" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7f0e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="196.02507"
+     y="183.97749"
+     id="text4312-3"
+     sodipodi:linespacing="0%"><tspan
+       sodipodi:role="line"
+       id="tspan4314-6"
+       x="196.02507"
+       y="183.97749"
+       style="font-size:8.75px;fill:#ff7f0e;fill-opacity:1">1549 images</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7f0e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="198.63341"
+     y="195.50429"
+     id="text4318-7"
+     sodipodi:linespacing="0%"><tspan
+       sodipodi:role="line"
+       id="tspan4320-5"
+       x="198.63341"
+       y="195.50429"
+       style="font-size:8.75px;fill:#ff7f0e;fill-opacity:1">255 queries</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path14"
+     d="m 221.64798,170 m -119.19291,0 a 119.19291,119.19291 0 1 0 238.38582,0 119.19291,119.19291 0 1 0 -238.38582,0"
+     style="fill:#ff7f0e;fill-opacity:0.25;stroke:#ff0000;stroke-width:0;stroke-opacity:0" />
+  <text
+     id="text16"
+     y="169.8"
+     x="221.3441"
+     dy="0"
+     style="text-anchor:middle;fill:#ff7f0e">
+    <tspan
+       id="tspan18"
+       dy="0"
+       y="169.8"
+       x="221.3441"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Depth</tspan>
+  </text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path22"
+     d="m 416.09312,129.3009 m -54.76443,0 a 54.764433,54.764433 0 1 0 109.52886,0 54.764433,54.764433 0 1 0 -109.52886,0"
+     style="fill:#d62728;fill-opacity:0.25;stroke:#ff0000;stroke-width:0;stroke-opacity:0" />
+  <text
+     id="text24"
+     y="128.10091"
+     x="415.20163"
+     dy="0"
+     style="text-anchor:middle;fill:#d62728">
+    <tspan
+       id="tspan26"
+       dy="0"
+       y="128.10091"
+       x="415.20163"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Irrelevant</tspan>
+  </text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path30"
+     d="m 327.99538,287.365 m -50.22166,0 a 50.22166,50.22166 0 0 0 100.44332,0 50.22166,50.22166 0 1 0 -100.44332,0"
+     style="fill:#2ca02c;fill-opacity:0.25;stroke:#ff0000;stroke-width:0;stroke-opacity:0" />
+  <text
+     id="text32"
+     y="283.26398"
+     x="330.64197"
+     dy="0"
+     style="text-anchor:middle;fill:#2ca02c">
+    <tspan
+       id="tspan34"
+       dy="0"
+       y="283.26398"
+       x="330.64197"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Pollution</tspan>
+  </text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7f0e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="169.07652"
+     y="207.24471"
+     id="text4324-3"
+     sodipodi:linespacing="0%"><tspan
+       sodipodi:role="line"
+       id="tspan4326-5"
+       x="169.07652"
+       y="207.24471"
+       style="font-size:8.75px;fill:#ff7f0e;fill-opacity:1">224 with important regions</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path38"
+     d="M 170,170 M 4.9999998e-6,170 A 170,170 0 0 0 340,170 170,170 0 1 0 4.9999999e-6,170"
+     style="fill:#1f77b4;fill-opacity:0.25;stroke:#ff0000;stroke-width:0;stroke-opacity:0" />
+  <text
+     id="text40"
+     y="157.52945"
+     x="52.860771"
+     dy="0"
+     style="text-anchor:middle;fill:#1f77b4">
+    <tspan
+       id="tspan42"
+       dy="0 0 0 0 0 0 0 0 0 0"
+       y="157.52945"
+       x="52.860771"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Flooding?</tspan>
+  </text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f77b4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="27.806635"
+     y="170.87723"
+     id="text4312"
+     sodipodi:linespacing="0%"><tspan
+       sodipodi:role="line"
+       id="tspan4314"
+       x="27.806635"
+       y="170.87723"
+       style="font-size:8.75px">3151 images</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="30.252619"
+     y="182.40402"
+     id="text4318"
+     sodipodi:linespacing="0%"><tspan
+       sodipodi:role="line"
+       id="tspan4320"
+       x="30.252619"
+       y="182.40402"
+       style="font-size:8.75px;fill:#1f77b4;fill-opacity:1">252 queries</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="20.705805"
+     y="194.14444"
+     id="text4324"
+     sodipodi:linespacing="0%"><tspan
+       sodipodi:role="line"
+       id="tspan4326"
+       x="20.705805"
+       y="194.14444"
+       style="font-size:8.75px;fill:#1f77b4;fill-opacity:1">136 with regions</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2ca02c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="307.94836"
+     y="297.79297"
+     id="text4312-6"
+     sodipodi:linespacing="0%"><tspan
+       sodipodi:role="line"
+       id="tspan4314-2"
+       x="307.94836"
+       y="297.79297"
+       style="font-size:8.75px;fill:#2ca02c;fill-opacity:1">275 images</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2ca02c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="307.76678"
+     y="308.69363"
+     id="text4318-9"
+     sodipodi:linespacing="0%"><tspan
+       sodipodi:role="line"
+       id="tspan4320-1"
+       x="307.76678"
+       y="308.69363"
+       style="font-size:8.75px;fill:#2ca02c;fill-opacity:1">104 queries</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2ca02c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="300.87958"
+     y="319.80792"
+     id="text4324-2"
+     sodipodi:linespacing="0%"><tspan
+       sodipodi:role="line"
+       id="tspan4326-7"
+       x="300.87958"
+       y="319.80792"
+       style="font-size:8.75px;fill:#2ca02c;fill-opacity:1">52 with regions</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d62728;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="392.76663"
+     y="141.11958"
+     id="text4312-0"
+     sodipodi:linespacing="0%"><tspan
+       sodipodi:role="line"
+       id="tspan4314-9"
+       x="392.76663"
+       y="141.11958"
+       style="font-size:8.75px;fill:#d62728;fill-opacity:1">327 images</tspan></text>
+</svg>
