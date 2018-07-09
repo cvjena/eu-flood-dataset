@@ -37,7 +37,7 @@ Obtaining the Images
 --------------------
 
 We provide two variants of the images in this dataset:
-one with the images resized so that the smaller side is at most 1280 pixels, whereas the smaller side is limited to 512 pixels in the second variant.
+one with the images resized so that the smaller side is at most 512 pixels, whereas the smaller side is limited to 1280 pixels in the second variant.
 
 - [Images resized to 512 pixels][3] (1.1 GB)
 - [Images resized to 1280 pixels][4] (5.6 GB)
