@@ -39,7 +39,7 @@ Obtaining the Images
 We provide two variants of the images in this dataset:
 one with the images resized so that the smaller side is at most 512 pixels, whereas the smaller side is limited to 1280 pixels in the second variant.
 
-- [Images resized to 512 pixels][3] (1.1 GB)
+- [Images resized to 512 pixels][3] (1.1 GB, [mirror][9])
 - [Images resized to 1280 pixels][4] (5.6 GB)
 
 To create a realistic image retrieval scenario, distractor images from the Flickr100k dataset are usually
@@ -119,7 +119,7 @@ We provide two sets of pre-computed features:
 one containing features of the images in this dataset only and the other one containing features for the
 images from Flickr100k in addition.
 
-- [Features for this dataset][6] (66.8 MB)
+- [Features for this dataset][6] (66.8 MB, [mirror][10])
 - [Features for this dataset + Flickr100k][7] (1.8 GB)
 
 Both sets contain 4 pickle files for different types of features:
@@ -153,3 +153,5 @@ The feature matrices are stored with the channels along the first axis.
 [6]: https://archive.org/download/european-flood-2013/features.zip
 [7]: https://archive.org/download/european-flood-2013/features_flickr100k.zip
 [8]: https://archive.org/download/european-flood-2013/VGG16_relu5_3.pickle.gz
+[9]: https://cloud.uni-jena.de/index.php/s/Tdns4xnw72XoBiN/download?path=%2F&files=european-flood-2013_imgs_small.zip
+[10]: https://cloud.uni-jena.de/index.php/s/Tdns4xnw72XoBiN/download?path=%2F&files=features.zip
