@@ -33,6 +33,19 @@ While the images from Wikimedia Commons are identified by their page ID, the pol
 numbered consecutively from 1 to 275 and their identifiers are prefixed with "pollution_".
 
 
+Citation
+--------
+
+The following paper describes the dataset in detail and conducts initial experiments for interactive
+flood image retrieval:
+
+> Björn Barz, Kai Schröter, Moritz Münch, Bin Yang, Andrea Unger, Doris Dransch, and Joachim Denzler.  
+> ["Enhancing Flood Impact Analysis using Interactive Image Retrieval of Social Media Images."][11]  
+> arXiv:1908.03361, 2019.
+
+If you use the dataset, please cite this paper.
+
+
 Obtaining the Images
 --------------------
 
@@ -155,3 +168,4 @@ The feature matrices are stored with the channels along the first axis.
 [8]: https://archive.org/download/european-flood-2013/VGG16_relu5_3.pickle.gz
 [9]: https://cloud.uni-jena.de/index.php/s/Tdns4xnw72XoBiN/download?path=%2F&files=european-flood-2013_imgs_small.zip
 [10]: https://cloud.uni-jena.de/index.php/s/Tdns4xnw72XoBiN/download?path=%2F&files=features.zip
+[11]: https://arxiv.org/pdf/1908.03361
