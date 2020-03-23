@@ -41,7 +41,7 @@ flood image retrieval:
 
 > Björn Barz, Kai Schröter, Moritz Münch, Bin Yang, Andrea Unger, Doris Dransch, and Joachim Denzler.  
 > ["Enhancing Flood Impact Analysis using Interactive Image Retrieval of Social Media Images."][11]  
-> arXiv:1908.03361, 2019.
+> Archives of Data Science, Series A, 5.1, 2018.
 
 If you use the dataset, please cite this paper.
 
