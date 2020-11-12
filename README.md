@@ -32,6 +32,9 @@ search engines for the [major oil spill events of the past few years][2].
 While the images from Wikimedia Commons are identified by their page ID, the pollution images are
 numbered consecutively from 1 to 275 and their identifiers are prefixed with "pollution_".
 
+We recently released a related and similarly annotated dataset of flood-related images posted on **Twitter**, together with two **classification models** trained on the European Flood 2013 dataset and evaluated on the Twitter images.
+You can find both, the Twitter dataset and the models, in [this repository][12].
+
 
 Citation
 --------
@@ -169,3 +172,4 @@ The feature matrices are stored with the channels along the first axis.
 [9]: https://cloud.uni-jena.de/index.php/s/Tdns4xnw72XoBiN/download?path=%2F&files=european-flood-2013_imgs_small.zip
 [10]: https://cloud.uni-jena.de/index.php/s/Tdns4xnw72XoBiN/download?path=%2F&files=features.zip
 [11]: https://arxiv.org/pdf/1908.03361
+[12]: https://github.com/cvjena/twitter-flood-dataset
